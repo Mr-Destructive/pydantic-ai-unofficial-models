@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pydantic_ai_unofficial_models",
-    version="0.0.1",
+    version="0.1.0",
     description="A collection of unofficial models for pydantic-ai",
     long_description=long_description,
     long_description_content_type="text/markdown",
